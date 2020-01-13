@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578924577 source:c:\users\ayas\documents\c\dfa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
